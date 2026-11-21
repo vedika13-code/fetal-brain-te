@@ -113,3 +113,17 @@ SFARI genes (optional): download the gene list from SFARI Gene and save one symb
   transcriptional innovation in the developing human brain. *Genome Res* 31:1531.
 
 Author: Vedika Goyal, VIT Vellore
+
+## Figures
+
+**What discarding multimappers costs, by TE age.** Each point is a subfamily; young subfamilies (left) lose the most signal with unique-only counting.
+
+![Unique-only counting vs TE age](results/analysis/fig2_unique_vs_age.png)
+
+**Where expressed TE loci sit relative to genes and their strand.**
+
+![Locus context](results/analysis/fig3_locus_context.png)
+
+**TE reads by class.**
+
+![TE classes](results/analysis/fig1_te_classes.png)
